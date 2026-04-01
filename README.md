@@ -1,8 +1,8 @@
-# AxioFlow Suite — Privacy Policy
+# AxioFlow Business — Privacy Policy
 
 **Last Updated: March 5, 2026**
 
-AxioFlow Suite ("App," "we," "us," or "our") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your data.
+AxioFlow Business ("App," "we," "us," or "our") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your data.
 
 ---
 
@@ -79,4 +79,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 ---
 
-*By using AxioFlow Suite, you acknowledge that you have read and understood this Privacy Policy.*
+*By using AxioFlow Business, you acknowledge that you have read and understood this Privacy Policy.*
